@@ -1,0 +1,27 @@
+# --- Google Gemini Integration ---
+langchain-google-genai==2.1.12
+google-generativeai==0.8.5
+
+# --- Core LangChain Packages ---
+langchain==0.3.3
+langchain-core==1.0.4
+
+# --- Environment Variable Management ---
+python-dotenv==1.2.1
+
+# --- OpenAI Integration ---
+langchain-openai==0.2.3
+openai==1.52.0
+
+streamlit==1.39.0
+
+google-ai-generativelanguage==0.6.15
+google-api-core==2.28.1
+
+pip install langchain_community
+pip install beautifulsoup4
+pip install lxml
+
+
+
+
