@@ -10,7 +10,6 @@ prompt = PromptTemplate(
     template='Write a summary for the following poem - \n {poem}',
     input_variables=['poem']
 )
-
 parser = StrOutputParser()
 
 loader = TextLoader('cricket.txt', encoding='utf-8')
